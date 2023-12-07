@@ -1,7 +1,7 @@
 # Jester Free
 Makes the Jester's scream the Free Bird guitar solo after having popped
 
-## Manual Installation (if downloaded from [thunderstore](https://thunderstore.io/c/lethal-company/p/AriDev/JesterFree/))
+## Manual Installation (if downloaded from [thunderstore](https://thunderstore.io/c/lethal-company/p/AriDev/JesterFree/) or [github releases](https://github.com/AriDeve/JesterFree/releases))
 1. Download manually from the website
 2. Install BepInEx
 3. Install LCSoundTool
