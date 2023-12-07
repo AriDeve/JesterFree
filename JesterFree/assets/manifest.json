@@ -1,0 +1,10 @@
+{
+    "name": "JesterFree",
+    "version_number": "1.0.6",
+    "website_url": "https://github.com/AriDeve/JesterFree",
+    "description": "Makes the Jester's scream the Free Bird guitar solo after having popped",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "no00ob-LCSoundTool-1.2.2"
+    ]
+}

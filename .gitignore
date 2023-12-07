@@ -1,0 +1,7 @@
+.idea
+JesterFree.sln.DotSettings.user
+bin
+obj
+
+packages/*
+!packages/Add your reference DLLs here
