@@ -1,4 +1,4 @@
-using System.IO;
+﻿using System.IO;
 using BepInEx;
 using BepInEx.Configuration;
 using BepInEx.Logging;
@@ -8,7 +8,7 @@ using UnityEngine;
 
 namespace JesterFree;
 
-[BepInPlugin(ModGuid, "Jester Free", "1.0.6")]
+[BepInPlugin(ModGuid, "Jester Free", "2.0.0")]
 [BepInDependency("LCSoundTool")]
 public class JesterFreeBase : BaseUnityPlugin {
     private const string ModGuid = "AriDev.JesterFree";

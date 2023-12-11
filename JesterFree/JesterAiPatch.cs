@@ -8,7 +8,7 @@ namespace JesterFree;
 public static class JesterAiPatch {
     [HarmonyPatch(nameof(JesterAI.Start))]
     [HarmonyPrefix]
-    public static void FreeJesterPatch(
+    public static void JesterFreePatch(
         [SuppressMessage("ReSharper", "InconsistentNaming")] ref AudioClip ___popGoesTheWeaselTheme,
         [SuppressMessage("ReSharper", "InconsistentNaming")] ref AudioClip ___screamingSFX,
         [SuppressMessage("ReSharper", "InconsistentNaming")] ref AudioSource ___farAudio,
