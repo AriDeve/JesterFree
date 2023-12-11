@@ -84,13 +84,17 @@
         <Compile Include="Properties\AssemblyInfo.cs"/>
     </ItemGroup>
     <ItemGroup>
-      <Content Include="assets\freebird.wav">
+      <Content Include="assets\solo.wav">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-          <TargetPath>freebird.wav</TargetPath>
+          <TargetPath>solo.wav</TargetPath>
       </Content>
       <Content Include="assets\icon.png">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
           <TargetPath>icon.png</TargetPath>
+      </Content>
+      <Content Include="assets\intro.wav">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+          <TargetPath>intro.wav</TargetPath>
       </Content>
       <Content Include="assets\manifest.json">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
